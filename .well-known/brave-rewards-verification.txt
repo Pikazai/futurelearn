@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: futurelearn.vercel.app
-Token: 4faaa98229f18b00fb24bb3d8028865d65cfde7cde8fbd25459afb574fd5ddba
